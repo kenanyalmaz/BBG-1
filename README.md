@@ -5,7 +5,7 @@ BBG-1011 dersinin 1.dönem vize sınavına hazırlanmak için yaptığım progra
 
 2) Ekrana yıldızla (*) desen yapma
 
-3) Girilen iki sayıyı ekrana yazdıran uygualama
+3) Girilen iki sayıyı ekrana yazdıran uygulama
 
 4) Bir Degisken Tanimlayip Deger Atama
 
