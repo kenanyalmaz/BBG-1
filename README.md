@@ -11,7 +11,7 @@ BBG-1011 dersinin 1.dönem vize sınavına hazırlanmak için yaptığım progra
 
 5) Tanimlanmis Bir Degiskenin Onluk Sekizlik Onaltilik Tabanlarda Karsiliklari
 
-5v2) Kullanıcıdan Istenilen Degiskenin Onluk Sekizlik Onaltilik Tabanlarda Karsiliklari
+5v2. Kullanıcıdan Istenilen Degiskenin Onluk Sekizlik Onaltilik Tabanlarda Karsiliklari
 
 6) Ondalıklı Sayı Girilmesini İsteyip Yazdıran Uygulama
 
