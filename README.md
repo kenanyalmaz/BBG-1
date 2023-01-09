@@ -65,5 +65,5 @@ hangi bir şey girildiğinde ise, "Yanlis operator secimi!" şeklinde hata mesaj
 
 29) Furkan'ın kitabını kaç günde bitireceğini hesaplayan programın çözümü
 
-30) Bankamatikten para çekme programı tarzında örnek basit bir program yazımı
+30) Bankamatikten para çekme programı tarzında örnek basit bir program yazımı.
 
